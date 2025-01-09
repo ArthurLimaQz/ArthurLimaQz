@@ -14,7 +14,7 @@
 
 ###
 <h2 align="left">O que você encontrará aqui</h2>
-<p align="left"> 🌐 <strong>  Projetos academicos </strong> com foco em <strong> desempenho, acessibilidade e usabilidade</strong>. <br>🔍 <strong>Resoluções de problemas</strong>, mostrando habilidades em lógica e análise técnica. <br>💡 <strong>Experimentos e estudos </strong> que documentam minha  <strong>evolução como desenvolvedor</strong> e refletem minha paixão por tecnologia.
+<p align="left"> 🌐 <strong>  Projetos acadêmicos </strong> com foco em <strong> desempenho, acessibilidade e usabilidade</strong>. <br>🔍 <strong>Resoluções de problemas</strong>, mostrando habilidades em lógica e análise técnica. <br>💡 <strong>Experimentos e estudos </strong> que documentam minha  <strong>evolução como desenvolvedor</strong> e refletem minha paixão por tecnologia.
   
 ###
 
